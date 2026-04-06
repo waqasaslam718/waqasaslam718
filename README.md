@@ -72,7 +72,7 @@ Frontend Developer with **1+ year of experience** building modern, responsive we
 
 [![Email](https://img.shields.io/badge/Email-waqas.aslam.software.engineer%40gmail.com-6C47FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waqas.aslam.software.engineer@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-03261310004-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923261310004)
-[![GitHub](https://img.shields.io/badge/GitHub-WaqasAslam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WaqasAslam)
+[![GitHub](https://img.shields.io/badge/GitHub-WaqasAslam-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/WaqasAslam](https://github.com/waqasaslam718))
 
 > 💬 *Open to freelance projects, collaborations, and frontend opportunities!*
 
